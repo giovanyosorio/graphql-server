@@ -1,3 +1,5 @@
+//schemas
+
 const persons=[
     {
         name: 'John',
